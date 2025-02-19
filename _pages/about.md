@@ -9,8 +9,8 @@ profile:
   image: gian.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Institute of Visual Computing</p>
-    <p>TU Graz, Inffeldgasse 16/II</p>
+    <p>IVC, TU Graz</p>
+    <p>Inffeldgasse 16/II</p>
     <p>8010 Graz, Austria</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
