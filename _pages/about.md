@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the Institute of Visual Computing, Graz University of Technology, working with Professor Thomas Pock and Marc Masana.
+I am a PhD student at the Institute of Visual Computing, Graz University of Technology, working with [Professor Thomas Pock](https://scholar.google.com/citations?user=FwNaHxQAAAAJ) and [Dr. Marc Masana](https://scholar.google.com/citations?user=vnZv5acAAAAJ).
 My research is on Out-of-Distribution Detection, Continual Learning and AI Safety.
 I absolved my Master’s in [Data Science and Scientific Computing](https://dssc.units.it/) and my Bachelor's in [Physics](https://df.units.it/it/content/fisica-triennale) at the University of Trieste. Previously, I worked as an R&D Engineer at [Infineon](https://www.infineon.com/).
